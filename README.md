@@ -13,6 +13,7 @@ A personal repository of book reflections, summaries, and recommendations.
 - [Templates](#templates)
 - [Categories](#categories)
 - [Contributing](#contributing)
+- [Read Books](#read-books)
 - [License](#license)
 
 ## Overview
@@ -66,6 +67,14 @@ This repository serves as my personal knowledge base for books I've read. Each r
     <th>Rating</th>
     <th>Completed</th>
     <th>Review</th>
+  </tr>
+  <tr>
+    <td><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311705993i/8034188.jpg" alt="Book Cover" width="60"></td>
+    <td><strong>Where Good Ideas Come From: The Natural History of Innovation</strong></td>
+    <td>Steven Johnson</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>May 17, 2025</td>
+    <td>[Book Review](./reviews/non-fiction/where-good-ideas-come-from-review.md)</td>
   </tr>
   <tr>
     <td><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348459211i/11976774.jpg" alt="Book Cover" width="60"></td>
@@ -189,6 +198,12 @@ This is a personal repository, but I welcome:
 - Improvements to templates or structure
 
 Open an issue to start a conversation!
+
+## Read Books
+
+These are the books I have read. This does not mean I have completed my review nor that I am recommending it.
+
+- [Completed Books](./completed-books.md)
 
 ## License
 

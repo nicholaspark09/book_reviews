@@ -1,0 +1,61 @@
+# Completed Books
+
+### Non-Fiction
+- 📊 Business & Economics
+    - Thinking Fast and Slow
+    - Noise
+    - Creativity, Inc
+    - Zero to One
+    - Skin in the Game
+    - Antifragile
+    - The Black Swan
+    - Fooled by Randomness
+    - The Bed of Procrustes
+    - Good Strategy Bad Strategy
+    - On Grand Strategy
+    - The Man Who Solved the Market
+    - Outsiders
+    - Range
+    - Sam Walton: Made in America
+    - The Big Short
+    - The Lean Startup
+    - Start It Up
+    - The Thin Green Line
+- 🧠 Psychology & Cognitive Science
+    - Talking to Strangers
+    - The Anxious Generation
+- 🖥️ Technology & Computer Science
+    - Where Good Ideas Come From: The Natural History of Innovation
+    - A Thousand Brains
+    - Clean Code
+    - Clean Architecture
+    - The Clean Coder
+- 🧬 Science & Mathematics
+    - The Dance of Life
+    - Who's in Charge?
+    - Engineering in Plain Sight
+    - From One Cell
+    - The Catalyst
+    - Why We Die
+    - What Is Life?
+    - Gene Machine
+    - Bumpin
+    - The Song of the Cell
+    - The Elegant Defense
+    - The Laws of Medicine
+    - The Gene
+    - Energy: Myths and Realities
+    - Cribsheet
+    - I Contain Multitudes
+    - How the World really Works
+- 📜 History & Biography
+    - Elon Musk
+    - Code Breaker
+    - The Fate of Rome
+    - Hannibal
+    - Steve Jobs
+    - Albert Einstein
+- 🏛️ Philosophy & Ethics
+- 🧘 Personal Development
+    - What I Wish I Knew When I Was 20
+- 🎨 Art & Creativity
