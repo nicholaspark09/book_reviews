@@ -8,6 +8,7 @@ A personal repository of book reflections, summaries, and recommendations.
 
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
+- [Currently Reading](#currently-reading)
 - [Recently Read](#recently-read)
 - [Highly Recommended](#highly-recommended)
 - [Templates](#templates)
@@ -57,6 +58,25 @@ This repository serves as my personal knowledge base for books I've read. Each r
     └── future-reads.md        # To-read list
 ```
 
+## Currently Reading
+
+<table>
+  <tr>
+    <th>Cover</th>
+    <th>Title</th>
+    <th>Author</th>
+    <th>Started</th>
+  </tr>
+  <tr>
+    <td><img src="https://www.cshlpress.com/productgraphics/big/RNALifeIndMol_f.jpg" alt="Book Cover" width="60"></td>
+    <td><strong>RNA: Life's Indispendable Molecule</strong></td>
+    <td>James Darnell</td>
+    <td>May 17, 2025</td>
+  </tr>
+</table>
+
+*Last updated: May 18, 2025 - [See all reviews](reviews/)*
+
 ## Recently Read
 
 <table>
@@ -86,7 +106,7 @@ This repository serves as my personal knowledge base for books I've read. Each r
   </tr>
 </table>
 
-*Last updated: May 10, 2025 - [See all reviews](reviews/)*
+*Last updated: May 18, 2025 - [See all reviews](reviews/)*
 
 ## Highly Recommended
 
