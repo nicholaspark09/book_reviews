@@ -92,11 +92,39 @@ These are books that have significantly impacted my thinking or that I believe o
     <th>Why It's Great</th>
   </tr>
   <tr>
-    <td><img src="https://via.placeholder.com/60x90" alt="Book Cover" width="60"></td>
-    <td><strong>Thinking in Systems</strong></td>
-    <td>Donella H. Meadows</td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbG2ywdBfTztOUbqeHWDiKiJ4VzNYd2S4png&s" alt="Book Cover" width="60"></td>
+    <td><strong>Thinking, Fast and Slow</strong></td>
+    <td>Daniel Kahneman</td>
+    <td>Psychology</td>
+    <td>This is the best book on general statistics principles and decision making gleaned from genius experiments I've ever read.</td>
+  </tr>
+  <tr>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshlafWYQgLjcWz6VNyvUftInoUAyWdNCRXw&s" alt="Book Cover" width="60"></td>
+    <td><strong>Creativity, Inc.</strong></td>
+    <td>Ed Catmull</td>
+    <td>Business</td>
+    <td>This book peals back the layers on **how Pixar makes the best stories**.</td>
+  </tr>
+  <tr>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBAgEu4wJV0shltSJyteSS3UI-oGULlPGOJw&s" alt="Book Cover" width="60"></td>
+    <td><strong>Antifragile</strong></td>
+    <td>Nassim Nicholas Taleb</td>
+    <td>Philosophy</td>
+    <td>This book challenges risk and uncertainty in systems.</td>
+  </tr>
+  <tr>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sfMRVTP6L1HDl9Gf0q0sBRPpgFLC_PpA0A&s" alt="Book Cover" width="60"></td>
+    <td><strong>The Gene</strong></td>
+    <td>Siddhartha Mukherjee</td>
     <td>Science</td>
-    <td>Transforms how you understand complex problems in any domain</td>
+    <td>This book opened up my understanding of DNA and its complexities.</td>
+  </tr>
+  <tr>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_XcJfIHfeNIBYLBhVTNJMUSO4C_npciwVkg&s" alt="Book Cover" width="60"></td>
+    <td><strong>The Catalyst</strong></td>
+    <td>Thomas R Cech</td>
+    <td>Science</td>
+    <td>Cech dives deep into RNA and illuminates how it works, how it was discovered, and promising solutions using RNA.</td>
   </tr>
 </table>
 

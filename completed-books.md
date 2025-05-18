@@ -30,6 +30,7 @@
     - Clean Code
     - Clean Architecture
     - The Clean Coder
+    - Design Patterns
 - 🧬 Science & Mathematics
     - The Dance of Life
     - Who's in Charge?
@@ -44,6 +45,7 @@
     - The Elegant Defense
     - The Laws of Medicine
     - The Gene
+    - The Emperor of All Maladies
     - Energy: Myths and Realities
     - Cribsheet
     - I Contain Multitudes
