@@ -7,7 +7,6 @@ A personal repository of book reflections, summaries, and recommendations.
 ## Table of Contents
 
 - [Overview](#overview)
-- [Repository Structure](#repository-structure)
 - [Currently Reading](#currently-reading)
 - [Recently Read](#recently-read)
 - [Highly Recommended](#highly-recommended)
@@ -27,36 +26,6 @@ This repository serves as my personal knowledge base for books I've read. Each r
 - Develop connections between different books and ideas
 - Share recommendations with others
 - Build a searchable personal library of book knowledge
-
-## Repository Structure
-
-```
-.
-├── README.md                  # This file
-├── templates/                 # Templates for different types of book content
-│   ├── book-reflection-template.md          # Basic reflection template
-│   ├── book-summary-template.md             # Detailed summary template
-│   ├── book-review-template.md              # Formal review template
-│   └── connection-map-template.md      # For mapping connections between books
-├── reviews/                   # Individual book reviews
-│   ├── non-fiction/           # Non-fiction books by category
-│   │   ├── psychology/        # Organized by subject
-│   │   ├── business/
-│   │   ├── philosophy/
-│   │   └── ...
-│   └── fiction/               # Fiction books by genre
-│       ├── science-fiction/
-│       ├── fantasy/
-│       ├── literary/
-│       └── ...
-├── lists/                     # Curated book lists
-│   ├── yearly-favorites/      # Best books by year
-│   ├── by-topic/              # Topic-specific recommendations
-│   └── reading-pathways/      # Suggested reading sequences
-└── meta/                      # Content about this repository
-    ├── stats.md               # Reading statistics
-    └── future-reads.md        # To-read list
-```
 
 ## Currently Reading
 
@@ -94,7 +63,7 @@ This repository serves as my personal knowledge base for books I've read. Each r
     <td>Steven Johnson</td>
     <td>⭐⭐⭐⭐</td>
     <td>May 17, 2025</td>
-    <td>[Book Review](./reviews/non-fiction/where-good-ideas-come-from-review.md)</td>
+    <td><a href="/reviews/non-fiction/where-good-ideas-come-from-review.md">Book Review</a></td>
   </tr>
   <tr>
     <td><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348459211i/11976774.jpg" alt="Book Cover" width="60"></td>
@@ -196,8 +165,6 @@ Books are organized into the following main categories and subcategories:
 - 📚 Literary Fiction
 - 🌍 Historical Fiction
 - 📖 Classic Literature
-
-*For the full taxonomy, see [categories.md](meta/categories.md)*
 
 ## Book Status Tags
 
