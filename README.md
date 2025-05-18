@@ -48,6 +48,11 @@ This repository serves as my personal knowledge base for books I've read. Each r
 
 ## Recently Read
 
+- I only give a thumbs up for recommendations.
+  - 👍 Thumbs up
+  - 👎 Thumbs down
+
+
 <table>
   <tr>
     <th>Cover</th>
@@ -56,6 +61,7 @@ This repository serves as my personal knowledge base for books I've read. Each r
     <th>Rating</th>
     <th>Completed</th>
     <th>Review</th>
+    <th>Recommended</th>
   </tr>
   <tr>
     <td><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311705993i/8034188.jpg" alt="Book Cover" width="60"></td>
@@ -64,6 +70,7 @@ This repository serves as my personal knowledge base for books I've read. Each r
     <td>⭐⭐⭐⭐</td>
     <td>May 17, 2025</td>
     <td><a href="/reviews/non-fiction/where-good-ideas-come-from-review.md">Book Review</a></td>
+    <td>👍</td>
   </tr>
   <tr>
     <td><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348459211i/11976774.jpg" alt="Book Cover" width="60"></td>
@@ -72,6 +79,7 @@ This repository serves as my personal knowledge base for books I've read. Each r
     <td>⭐⭐⭐⭐⭐</td>
     <td>May 10, 2025</td>
     <td>No Review Yet</td>
+    <td>👍</td>
   </tr>
 </table>
 
