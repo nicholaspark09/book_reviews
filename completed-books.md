@@ -32,6 +32,7 @@
     - The Clean Coder
     - Design Patterns
 - 🧬 Science & Mathematics
+    - RNA: Life's Indispensable Molecule
     - The Dance of Life
     - Who's in Charge?
     - Engineering in Plain Sight
