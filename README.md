@@ -64,6 +64,15 @@ This repository serves as my personal knowledge base for books I've read. Each r
     <th>Recommended</th>
   </tr>
   <tr>
+    <td><img src="https://www.cshlpress.com/productgraphics/big/RNALifeIndMol_f.jpg" alt="Book Cover" width="60"></td>
+    <td><strong>RNA: Life's Indispendable Molecule</strong></td>
+    <td>James Darnell</td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>June 17, 2025</td>
+    <td><a href="/reviews/non-fiction/rna-lifes-indispensable-molecule.md">Book Review</a></td>
+    <td>👍</td>
+  </tr>
+  <tr>
     <td><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311705993i/8034188.jpg" alt="Book Cover" width="60"></td>
     <td><strong>Where Good Ideas Come From: The Natural History of Innovation</strong></td>
     <td>Steven Johnson</td>
