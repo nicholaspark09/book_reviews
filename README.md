@@ -37,10 +37,10 @@ This repository serves as my personal knowledge base for books I've read. Each r
     <th>Started</th>
   </tr>
   <tr>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMw-Uw9MUqWwgX3CYr74zJgN6LkFhdiSilg&s" alt="Book Cover" width="60"></td>
-    <td><strong>Naked Statistics</strong></td>
-    <td>Charles Wheelan</td>
-    <td>June 27, 2025</td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8HQ6ZlFgcgLyQDnvLuSQC_66eSmo24eEtgkYmrPv9A&s=10" alt="Book Cover" width="60"></td>
+    <td><strong>The Disordered Mind</strong></td>
+    <td>Eric R. Kandel</td>
+    <td>August 31, 2026</td>
   </tr>
 </table>
 
