@@ -63,6 +63,15 @@ This repository serves as my personal knowledge base for books I've read. Each r
     <th>Review</th>
     <th>Recommended</th>
   </tr>
+    <tr>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSb9CTOTISwvLODpjwqomlNRqWUpXC0HmPg8hRdm0aBQ&s=10" alt="Book Cover" width="60"></td>
+    <td><strong>Remember</strong></td>
+    <td>Lisa Genova</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>August 31, 2026</td>
+    <td><a href="/reviews/non-fiction/remember.md">Book Review</a></td>
+    <td>👍</td>
+  </tr>
   <tr>
     <td><img src="https://www.cshlpress.com/productgraphics/big/RNALifeIndMol_f.jpg" alt="Book Cover" width="60"></td>
     <td><strong>RNA: Life's Indispendable Molecule</strong></td>

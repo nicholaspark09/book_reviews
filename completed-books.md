@@ -24,6 +24,8 @@
 - 🧠 Psychology & Cognitive Science
     - Talking to Strangers
     - The Anxious Generation
+    - Our Brains, Our Selves
+    - Remember
 - 🖥️ Technology & Computer Science
     - Where Good Ideas Come From: The Natural History of Innovation
     - A Thousand Brains
