@@ -21,24 +21,29 @@
 
 2. **Inferential Statistics**: 
    - Core concept: While descriptive statistics allow us to describe what we observe, inferential statistics allow us to glean information or extrapolate opinions about what we cannot directly observe. 
-   - Application: Test takers in Atlanta had scored abnormally well on exams after changes to inventive structure for teachers that placed more emphasis on their students' exam results. The null hypothesis, being that they didn't cheat, would have **normal** erasure rates (meaning erased answers converted to correct ones). However, they found that he erasure rates converted to correct answers were between 20-50 standard deviations above the norm. We can **infer** or surmise from the data, that cheating was occurring. The likelihood of that occurring would be so small that it should happen only once in 1.453 x 10⁸⁶ years.
+   - Application: Test takers in Atlanta had scored abnormally well on exams after changes to inventive structure for teachers that placed more emphasis on their students' exam results. The null hypothesis, being that they didn't cheat, would have **normal** erasure rates (meaning erased answers converted to correct ones). However, they found that he erasure rates converted to correct answers were between 20-50 standard deviations above the norm. We can surmise from the data that cheating was occurring. The likelihood of that occurring would be so small that it should happen only once in 1.453 x 10⁸⁶ years.
 
 3. **Central Limit Theorem**:
-   - Core concept: 
-   - Application: 
+   - Core concept: A large, properly drawn sample, will reflect the population from which it is drawn. The sample mean should be approximately normally distributed.
+   - Application: If I get the average for a group of individuals and it is larger than 3 standard errors, then I know that it is probably not from the correct group with a confidence of 99.7%. This can help me to determine pricing and/or draw meaningful conclusions about data so long as I have a meaningfully large sample size (Standard error = Standard Deviation / SquareRoot(sample size))
 
 ## Chapter-by-Chapter Overview
 
-### Chapter 1: Adjancent Possible
-- 
+### Chapter 1: What's the Point
+- Statistics helps us to do a variety of tasks that are difficult or impossible to do in the real world because of practical or ethical constraints. This includes:
+    - summarize large quantities of data
+    - answer important questions
+    - recognize patterns
+    - evaluate the effectiveness of policies and rules
 
-### Chapter 2: Liquid Network
-- 
+### Chapter 2: Descriptive Statistics: Who was the best baseball player of all time?
+- Descriptive statistics are a way to quickly summarize lots of data points. It also helps us to compare or contrast things. The greatest baseball player of all time might best be summed up by his slugging percentage; Babe Ruth gained an average of .690 bases for every at-bat. 
+- One interesting descriptive statistic is wage in America. While the mean income in America has risen substantially over 4 decades, the median income for an individual in the united states stands at $40,000. The median helps us to see that for the average American, income has been stagnant for many decades. The *true change* in income can be seen in the 90th percentile of income which has risen dramatically.
 
-### Chapter 3: The Slow Hunch
-- 
+### Chapter 3: Deceptive Description
+- Statistics can be used to convey the message an intended author or publisher desires regardless of its accuracy. Just because something is precise (99.9%), does not actually mean it is factually correct or accurate. For instance, schools are often evaluated by test scores **but what do test scores reflect?** Test scores often reflect the income of the parents in that particular school rather than elucidate any meaningful information about the teachers or the quality of teaching in those schools. In some states, graduation rates are one way in which schools are measured, so some administrators were caught labeling students as having "moved away" rather than actually dropping out. This improved the school ratings even though **the opposite was occurring**. We have to be careful to understand the data from which the statistics is being drawn and understand how the author could be maliciously misrepresenting the information.
 
-### Chapter 4: Serendipity
+### Chapter 4: Correlation
 - 
 
 ### Chapter 5: Error
