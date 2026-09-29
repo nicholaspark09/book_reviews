@@ -23,4 +23,29 @@ Iprionazid, a drug used for Tuberculosis patients, was found to reduce the letha
 
 Aaron Beck, a psychoanalyst, discovered that many depressed patients tend to focus or solely remember negative events and aspects of themselves. This led him to experiment with and prove that reinforcing positive thoughts, memories, and ideas of patients to them was as good as and in many cases better than antidepressants. His therapy, Cognitive Behavioral Therapy, is a major advance in treating depression albeit not for the most severe depression cases. It has been found that for **severe** cases of depression, a combination of cognitive behavioral therapy and drugs works much better than drugs alone.
 
+### Chapter 4: Schizophrenia
 
+**Main Idea:** Schizophrenia is a complex disease, a disorder of "thought" rather than mood, and results in patients who have hallucinations, trouble with executive function and ordering. This blend of symptoms and problems are mainly due to excessive synaptic pruning and an excess of dopamine and sensitive dopamine receptors. It is a complex disease with a gamut of symptoms, genetic and environmental causes, and patients will get progressively worse with time.
+
+**Key Points:**
+
+- Schizophrenia is not a circuit defect but rather an anatomical defect in which there is excess synaptic pruning and a loss of gray matter in the prefrontal cortex
+- Patients can have *positive symptoms* which actually means they have new types of behavior relative to non-suffering individuals. This includes delusions and hallucinations that can be both visual and auditory.
+- Patients also have *negative symptoms* which involve a lack of motivation or social withdrawal
+- In identical twin studies, there was a 50% chance that a separated identical twin also was diagnosed with schizophrenia indicating a *high* genetic component given schizophrenia diagnosed patients are only 1% of the general population.
+- Drugs that reduce dopamine or dopamine sensitivity work well in removing the positive symptoms but may induce parkinson's like symptoms because of the removal of the crucial neurotransmitter dopamine
+- Schizophrenia typically strikes in adolescence and once begun, the symptoms are hard to reverse as demonstrated in animal models
+
+**Evidence/ Examples:**
+Mice were genetically modified to have their D2 Receptors receive an excess amount of dopamine but were also programmed to be able to turn off the schizophrenia like state. They lost the ability to function normally and exhibited schizophrenia like symptoms. Once the gene was flipped off, rather than regaining normal functioning of their brains the damage was persistent and they could not recover.
+
+**Key Terms:**
+- *positive symptoms*: new types of behavior to standard brain functionality such as hallucinations and delusions including the "feeling" of being watched or manipulated
+- *22q11 deletion*: A genetic deletion of in chromosome 22 that corresponds highly with schizophrenia
+
+**Takeway:** Profligate synaptic pruning in adolescence due to genetic factors lead to the inability of the prefrontal cortex to enact execution control and excess dopamine lead to the hallucinations and delusions of schizophrenia. While the positive symptoms can be mitigated via drugs, the loss of gray matter is irreversible and it is crucial with fMRIs, brain scanning, and genetic testing to find schizophrenia patients early and help them. We do not have a cure but we have much better medicine and understanding of the disease. Schizophrenia helped us to learn the role of dopamine in parkinson's as medicine that helped schizophrenic patients reduced hallucinations but induced parkinson's symptoms.
+
+### Chapter 5: Dementia
+
+**Main Idea:** Dementia and its various diseases and causes have helped us to learn about how we remember and human memory. HM's removal of his hippocampus helped us learn the importance of the hippocampus in transferring short term explicit memory to long term memory while demonstrating that implicit memory, like physical skills, are stored in different parts of the brain. Age related forgetfulness, has shown us the importance of RbAp48 (protein) in transferring short term memory to long term which is encouraged by osteocalcin which exercise helps to produce in bone. 
+ 
